@@ -1,5 +1,5 @@
-安装好相应的库。
+Install relative libs.
 
-解压数据集到本文件夹。
+Unzip the dataset into folder.
 
-运行MyTrain.py
+Run MyTrain.py
